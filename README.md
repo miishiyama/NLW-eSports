@@ -3,7 +3,7 @@
 ![preview](./preview/NLW-eSports.png)
 
 ## Projeto 💻
-Projeto desenvolvido durante a NLW eSports na Rocketseat na Trilha Explorer. <br>
+Projeto desenvolvido durante a NLW eSports da Rocketseat na Trilha Explorer. <br>
 (https://www.figma.com/file/W6q6TmYWyTcxZYHfZ37YDB/NLW-eSports-(Community))
 
 ## Tecnologias 🚀

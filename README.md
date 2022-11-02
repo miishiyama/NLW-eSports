@@ -1,5 +1,4 @@
 # NLW eSports
-
 ![preview](./preview/NLW-eSports.png)
 
 ## Projeto 💻

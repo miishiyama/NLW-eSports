@@ -9,6 +9,7 @@ Projeto desenvolvido durante a NLW eSports da Rocketseat na Trilha Explorer. <br
 As tecnologias utilizadas neste projeto são:
 - HTML
 - CSS
+- Keyframes
 
 ## Créditos ❤️
 Feito por [Millene Eduarda Ishiyama](https://github.com/miishiyama/).

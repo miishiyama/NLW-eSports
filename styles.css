@@ -38,7 +38,7 @@ header div {
   border-radius: 50%;
   display: flex;
   padding: 4px;
-  transition: transform .3s;
+  transition: transform 0.3s;
 }
 
 header div:hover {
@@ -82,7 +82,7 @@ section p {
 }
 
 section ul li {
-  transition: transform .3s;
+  transition: transform 0.3s;
 }
 
 section ul li:hover {
@@ -101,11 +101,11 @@ section ul li:hover {
 }
 
 header div {
-  animation: fromTop .7s .2s backwards;
+  animation: fromTop 0.7s 0.2s backwards;
 }
 
 main section {
-  animation: fromBottom .7s backwards;
+  animation: fromBottom 0.7s backwards;
 }
 
 main section:nth-last-child(1) {
@@ -113,11 +113,11 @@ main section:nth-last-child(1) {
 }
 
 main section:nth-last-child(2) {
-  animation-delay: .3s;
+  animation-delay: 0.3s;
 }
 
 main section:nth-last-child(3) {
-  animation-delay: .6s;
+  animation-delay: 0.6s;
 }
 
 @keyframes fromTop {
